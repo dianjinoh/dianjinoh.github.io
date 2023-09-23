@@ -4,5 +4,5 @@
 
 | description | image                                           |
 | ----------- | ----------------------------------------------- |
-| two puppies | <img src="2023-09-24_001905.jpg" width="200"> |
+| two puppies | <a href="./2023-09-24_001905.jpg" rel="some text"><img src="2023-09-24_001905.jpg" width="200"></a> |
 |             |                                                 |
